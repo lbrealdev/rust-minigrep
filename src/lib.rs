@@ -89,7 +89,7 @@ Duct tape.";
 Rust:
 safe, fast, productive.
 Pick three.
-Trust me.";
+Trust.";
 
         assert_eq!(
             vec!["Rust:", "Trust me."],
